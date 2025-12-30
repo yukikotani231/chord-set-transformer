@@ -41,8 +41,8 @@ htmlcov/
 .mypy_cache/
 .ruff_cache/
 
-# Data
-data/
+# Data (top-level only)
+/data/
 
 # Model checkpoints
 checkpoints/
